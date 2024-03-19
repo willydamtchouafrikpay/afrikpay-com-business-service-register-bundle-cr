@@ -1,9 +1,9 @@
 <?php
 
-namespace Afrikpay\SymfonyBusinessServiceProfile;
+namespace Afrikpay\SymfonyBusinessServiceRegister;
 
 use Symfony\Component\HttpKernel\Bundle\Bundle;
 
-class AfrikpaySymfonyBusinessServiceProfileBundle extends Bundle
+class AfrikpaySymfonyBusinessServiceRegisterBundle extends Bundle
 {
 }
